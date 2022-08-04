@@ -4,8 +4,7 @@ import 'package:sqflite_sqlcipher/sqflite.dart';
 
 class DB {
   Database? database;
-  String dbPassword =
-      '';
+  String dbPassword = 'Env';
 
   Future<Database?> getDB() async {
     try {

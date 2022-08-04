@@ -47,11 +47,13 @@ dependencies:
   flutter_staggered_grid_view: ^0.6.2
   intl: ^0.17.0
   icons_launcher: ^2.0.2
+  envied: ^0.2.1
   
 dev_dependencies:
   flutter_test:
     sdk: flutter
   build_runner:
+  envied_generator: ^0.2.1
 
 icons_launcher:
   image_path: 'assets/images/logo.png'
@@ -79,6 +81,7 @@ flutter:
   assets:
     - assets/db/noty.db
     - assets/images/
+    - google_fonts/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
