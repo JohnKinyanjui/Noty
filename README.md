@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/52638680/182887168-934399a0-9ec3-4987-a684-f254251915a4.png" width=50 height=50>
 ### Noty
 
 Write productive notes much faster with a clean and simplistic ui
